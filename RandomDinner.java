@@ -113,7 +113,7 @@ public class RandomDinner
       System.out.print("The dinner place randomly selected is "
          + dinnerPlaces[randomNumber].getName() + ". \nIt is located in the "
          + dinnerPlaces[randomNumber].getLocation() + " area of Sacramento. \nIt's category is "
-         + dinnerPlaces[randomNumber].getCategory() + " and the price point point is "
+         + dinnerPlaces[randomNumber].getCategory() + " and the price point is "
          + dinnerPlaces[randomNumber].getPrice()
          + ".\nEnjoy!");
    }
